@@ -11,4 +11,4 @@ const printPingPong = () => {
     }
   }
 };
-printPingPong()
+printPingPong();

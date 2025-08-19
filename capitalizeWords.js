@@ -5,4 +5,4 @@ const capitalizeWords = (str) => {
     .join(" ");
 };
 
-console.log(capitalizeWords("hello my dear programmer"))
+console.log(capitalizeWords("hello my dear programmer"));

@@ -12,6 +12,4 @@ const vowelsCount = (str) => {
   return count;
 };
 
-
-
 console.log(vowelsCount("Programming Hero"));

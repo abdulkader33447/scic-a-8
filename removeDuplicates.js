@@ -1,8 +1,8 @@
-const removeDuplicates = (numbers) =>{
-    const unique = [...new Set(numbers)]
+const removeDuplicates = (numbers) => {
+  const unique = [...new Set(numbers)];
 
-    return unique
-}
+  return unique;
+};
 
-console.log(removeDuplicates([1,2,3,4,5,6,7,8,9,4,3,2]))
-console.log(removeDuplicates(["a","a","g","g"]))
+console.log(removeDuplicates([1, 2, 3, 4, 5, 6, 7, 8, 9, 4, 3, 2]));
+console.log(removeDuplicates(["a", "a", "g", "g"]));
